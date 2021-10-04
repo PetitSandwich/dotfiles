@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = ant.pecheux@gmail.co
+	email = ant.pecheux@gmail.com
 	name = antoine pecheux
