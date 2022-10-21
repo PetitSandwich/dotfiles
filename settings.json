@@ -1,4 +1,6 @@
 {
+    "powermode.enabled": false,
+    "powermode.presets": "particles",
     "editor.detectIndentation": false,
     "editor.formatOnPaste": true,
     "editor.minimap.enabled": false,
@@ -27,7 +29,6 @@
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
-    "workbench.iconTheme": "vscode-great-icons",
     "files.hotExit": "off",
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
@@ -75,5 +76,8 @@
     {
         "rubocop": true
     },
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "SynthWave '84",
+    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+    "workbench.productIconTheme": "fluent-icons"
 }
